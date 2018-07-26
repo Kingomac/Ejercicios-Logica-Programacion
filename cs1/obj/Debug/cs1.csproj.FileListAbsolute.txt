@@ -1,0 +1,7 @@
+C:\Users\Mario\Desktop\Ejercicios-Logica-Programacion\cs1\bin\Debug\cs1.exe.config
+C:\Users\Mario\Desktop\Ejercicios-Logica-Programacion\cs1\bin\Debug\cs1.exe
+C:\Users\Mario\Desktop\Ejercicios-Logica-Programacion\cs1\bin\Debug\cs1.pdb
+C:\Users\Mario\Desktop\Ejercicios-Logica-Programacion\cs1\obj\Debug\cs1.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Ejercicios-Logica-Programacion\cs1\obj\Debug\cs1.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Ejercicios-Logica-Programacion\cs1\obj\Debug\cs1.exe
+C:\Users\Mario\Desktop\Ejercicios-Logica-Programacion\cs1\obj\Debug\cs1.pdb
