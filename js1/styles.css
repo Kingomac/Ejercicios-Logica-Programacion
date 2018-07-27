@@ -1,0 +1,42 @@
+p{
+    background-color: #323230;
+    padding: 1%;
+    border: dashed #F0DA50 4px;
+}
+body{
+    font-size: 115%;
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    font-family: Century Gothic;
+    background-image: url("https://img00.deviantart.net/0641/i/2017/127/b/7/javascript_wallpaper_by_mrhudson-db8gw2e.png");
+}
+input{
+    padding: 5px;
+    font-family: Century Gothic;
+    color: #F0DA50;
+    background-color: #323230;
+    border: dashed #F0DA50 4px;
+    font-size: 115%;
+}
+input:hover{
+    color: #323230;
+    background-color: #F0DA50;
+    border-color: #323230;
+}
+input:active{
+    font-weight: bold;
+    border-radius: 5px;
+    border: dashed 5px #323230;
+}
+textarea{
+    font-family: Century Gothic;
+    font-weight: bold;
+    text-align: center;
+    background-color: #323230;
+    color: #F0DA50;
+    border: dashed #F0DA50 4px;
+    padding: 10px;
+}
