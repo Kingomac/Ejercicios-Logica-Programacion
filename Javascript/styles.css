@@ -40,3 +40,12 @@ textarea{
     border: dashed #F0DA50 4px;
     padding: 10px;
 }
+footer{
+    background-color: #323230;
+    border: dashed 4px #F0DA50;
+    bottom: 0%;
+    width: 98.5%;
+    padding: 0.4%;
+    overflow: auto;
+    position: static;
+}
